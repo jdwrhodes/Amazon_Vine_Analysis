@@ -23,5 +23,7 @@ The number of 5 Star reviews was calculated for each, 44 5 Star paid reviews and
 And the percentage of 5 Star reviews was 48.89% for paid and 38.87% for unpaid.
 ![Five Star Review Percentage](https://raw.githubusercontent.com/jdwrhodes/Amazon_Vine_Analysis/main/resources/percent_reviews.png 'Five Star Review Percentage')
 
-
 ## Summary
+A few conslusions could be drawn from this dataset. One is that there does appear to be a bias for positive for paid reviews, at 10% higher for paid vs unpaid. Something to keep in mind is that there is only 90 paid reviews, compared to over 37,000 unpaid. Meaning that there is 420 unpaid reviews for each paid review. Acquiring a larger paid sample set may be desirable. 
+
+An additional analysis that could help mitigate this numerical difference would be to study another category of reviews other than video games, like electornics. That would keep it in the same realm of product. By assessing any bias in another dataset could bolster the results of this dataset.
